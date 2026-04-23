@@ -1,2 +1,3 @@
-# ios2
-Generated landing page: ios2
+# Apple Gift Card
+
+Generated landing page.
